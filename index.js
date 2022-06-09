@@ -1,8 +1,8 @@
 /**
   * Edit features in './message/msg.js'
-  * Contact me on WhatsApp wa.me/6281319944917
-  * Follow : https://github.com/rtwone
-  * Follow : https://github.com/GetSya
+  * Contact me on WhatsApp wa.me/6285784715971
+  * Follow : https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg
+  * Follow : https://github.com/yahya17YT
 */
 
 "use strict";
