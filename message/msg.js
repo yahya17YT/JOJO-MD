@@ -1,17 +1,12 @@
-/*HELLO BRO TERIMA KASIH SUDAH AMBIL SCRIPT INI JANGAN LUPA IKUTI DAN SUBSCRIBE MEDIA SOSIAL OWNER DAN BOT
+/*-------WELCONE TO YAHYA17BOTZ
 
-Instagram : @arsrfi.jpg
-Youtube : Channel JOJO
-WhatsApp : 0813-1994-4917
+Instagram : https://istagram.com/yahya17_ch
+Youtube : https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg
+WhatsApp : wa.me/6285784715971
+Grup WhatsApp : https://chat.whatsapp.com/HQ3Jb07y3cI8NQBCqZGYfH
 
 THANKS TO
-- Irfan Hardianto
-- Amell
-- Hardianto
-- Affis Junianto
-- Rafli Rusdiana
-- Febri
-- Grup Jojoo
+-YAHYA17 CH
 
 Matur Nuwun*/
 "use strict";
