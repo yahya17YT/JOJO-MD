@@ -24,7 +24,7 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 	
   _*${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'}*_
 
-    Library : *Baileys-MD*.
+    Library : *Yahya17Botz*.
     Prefix : ( ${prefix} )
     Tanggal Server : ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
     Waktu Server : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}
@@ -209,13 +209,4 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   ≻ ${prefix}addprem
   ≻ ${prefix}delprem
   ≻ ${prefix}broadcast
-
-  *THANKS TO*
-  - Allah SWT
-  - Baileys-Md (Adiwa Jshing)
-  - @irfann._x (Iyan)
-  - @arsrfi.jpg (Arasya)
-  - M Hadi Firmansya (Hadi Api)
-  - @melcanz_ (Amel)
-  - @hardianto.xyz (Anto)`
 }
